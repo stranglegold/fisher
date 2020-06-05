@@ -1,0 +1,5922 @@
+{
+  "fishermans": [
+    {
+      "id": 56473,
+      "firstName": "Fatima",
+      "lastName": "Hayes",
+      "state": "Delaware",
+      "address": "1882 Purdy Street"
+    },
+    {
+      "id": 3445,
+      "firstName": "Thad",
+      "lastName": "Shanahan",
+      "state": "Colorado",
+      "address": "418 Hodkiewicz Turnpike"
+    },
+    {
+      "id": 1356,
+      "firstName": "Neha",
+      "lastName": "Heidenreich",
+      "state": "New Mexico",
+      "address": "01994 Welch Villages"
+    },
+    {
+      "id": 96729,
+      "firstName": "Rosanna",
+      "lastName": "Torphy",
+      "state": "Arizona",
+      "address": "28577 Violette Streets"
+    },
+    {
+      "id": 41621,
+      "firstName": "Brenda",
+      "lastName": "Pacocha",
+      "state": "Connecticut",
+      "address": "7648 Ernser Alley"
+    },
+    {
+      "id": 84987,
+      "firstName": "Madison",
+      "lastName": "Okuneva",
+      "state": "Iowa",
+      "address": "54423 Dolly Turnpike"
+    },
+    {
+      "id": 30770,
+      "firstName": "Freeman",
+      "lastName": "Herman",
+      "state": "Florida",
+      "address": "8802 Lang Road"
+    },
+    {
+      "id": 41315,
+      "firstName": "Hailee",
+      "lastName": "Huel",
+      "state": "New Jersey",
+      "address": "95458 Stehr Meadows"
+    },
+    {
+      "id": 41730,
+      "firstName": "Albin",
+      "lastName": "Kshlerin",
+      "state": "Oklahoma",
+      "address": "398 Bartell Locks"
+    },
+    {
+      "id": 72154,
+      "firstName": "Kristy",
+      "lastName": "Larson",
+      "state": "Georgia",
+      "address": "0870 Rosenbaum Park"
+    },
+    {
+      "id": 20099,
+      "firstName": "Jesus",
+      "lastName": "Schmitt",
+      "state": "South Dakota",
+      "address": "909 Jackie Valleys"
+    },
+    {
+      "id": 50503,
+      "firstName": "Kamren",
+      "lastName": "Ernser",
+      "state": "Arkansas",
+      "address": "635 Idell Extensions"
+    },
+    {
+      "id": 66933,
+      "firstName": "Brady",
+      "lastName": "Purdy",
+      "state": "Alabama",
+      "address": "8791 Zieme Mountain"
+    },
+    {
+      "id": 82700,
+      "firstName": "Janick",
+      "lastName": "Hagenes",
+      "state": "South Carolina",
+      "address": "3828 Hermann Terrace"
+    },
+    {
+      "id": 69311,
+      "firstName": "Jayden",
+      "lastName": "Hettinger",
+      "state": "Washington",
+      "address": "9507 Alek Divide"
+    },
+    {
+      "id": 95831,
+      "firstName": "Giovanni",
+      "lastName": "McDermott",
+      "state": "Montana",
+      "address": "2653 Alberta Points"
+    },
+    {
+      "id": 51144,
+      "firstName": "Crawford",
+      "lastName": "Gusikowski",
+      "state": "New Hampshire",
+      "address": "306 Kilback Ports"
+    },
+    {
+      "id": 57328,
+      "firstName": "Donnie",
+      "lastName": "Reilly",
+      "state": "North Carolina",
+      "address": "2790 Mills Dale"
+    },
+    {
+      "id": 70309,
+      "firstName": "Erich",
+      "lastName": "Klocko",
+      "state": "Washington",
+      "address": "204 Purdy Court"
+    },
+    {
+      "id": 47611,
+      "firstName": "Lonnie",
+      "lastName": "Ferry",
+      "state": "Kentucky",
+      "address": "28345 Mante Turnpike"
+    },
+    {
+      "id": 78731,
+      "firstName": "Chesley",
+      "lastName": "Frami",
+      "state": "New York",
+      "address": "055 Hattie Prairie"
+    },
+    {
+      "id": 15025,
+      "firstName": "Camilla",
+      "lastName": "Leuschke",
+      "state": "New Mexico",
+      "address": "35952 Cora Route"
+    },
+    {
+      "id": 80319,
+      "firstName": "Elwin",
+      "lastName": "Beahan",
+      "state": "Massachusetts",
+      "address": "849 Norene Ville"
+    },
+    {
+      "id": 11423,
+      "firstName": "Aubree",
+      "lastName": "King",
+      "state": "Tennessee",
+      "address": "6576 Lockman Spurs"
+    },
+    {
+      "id": 67479,
+      "firstName": "Jadon",
+      "lastName": "Pfannerstill",
+      "state": "Virginia",
+      "address": "2774 Heloise Dale"
+    },
+    {
+      "id": 55056,
+      "firstName": "Khalil",
+      "lastName": "Fisher",
+      "state": "Utah",
+      "address": "885 Evalyn Glens"
+    },
+    {
+      "id": 86125,
+      "firstName": "Timmy",
+      "lastName": "Goldner",
+      "state": "New Hampshire",
+      "address": "915 Runte Gardens"
+    },
+    {
+      "id": 6712,
+      "firstName": "Torrance",
+      "lastName": "Beatty",
+      "state": "Kansas",
+      "address": "63926 Wisozk Drive"
+    },
+    {
+      "id": 72261,
+      "firstName": "Neal",
+      "lastName": "Feest",
+      "state": "Illinois",
+      "address": "7746 Purdy Summit"
+    },
+    {
+      "id": 61685,
+      "firstName": "Adelia",
+      "lastName": "Paucek",
+      "state": "Georgia",
+      "address": "787 Kuvalis Bypass"
+    },
+    {
+      "id": 73706,
+      "firstName": "Glen",
+      "lastName": "Littel",
+      "state": "Washington",
+      "address": "4717 Crooks Pines"
+    },
+    {
+      "id": 56172,
+      "firstName": "Kirsten",
+      "lastName": "Gerhold",
+      "state": "Ohio",
+      "address": "055 Runolfsdottir Stravenue"
+    },
+    {
+      "id": 87496,
+      "firstName": "Oceane",
+      "lastName": "Sauer",
+      "state": "Idaho",
+      "address": "35948 Tromp Neck"
+    },
+    {
+      "id": 45157,
+      "firstName": "Blaze",
+      "lastName": "Denesik",
+      "state": "New Hampshire",
+      "address": "31915 Borer Fords"
+    },
+    {
+      "id": 43629,
+      "firstName": "Anthony",
+      "lastName": "Sawayn",
+      "state": "Arkansas",
+      "address": "8615 Sage Field"
+    },
+    {
+      "id": 64113,
+      "firstName": "Faustino",
+      "lastName": "Von",
+      "state": "Oregon",
+      "address": "77005 Schimmel Manor"
+    },
+    {
+      "id": 28705,
+      "firstName": "Ottis",
+      "lastName": "Mueller",
+      "state": "Vermont",
+      "address": "18672 Schulist Greens"
+    },
+    {
+      "id": 76886,
+      "firstName": "Candelario",
+      "lastName": "Mraz",
+      "state": "Kentucky",
+      "address": "0620 Doris Gardens"
+    },
+    {
+      "id": 40166,
+      "firstName": "Angelina",
+      "lastName": "Dach",
+      "state": "Illinois",
+      "address": "4612 Dorothy Lodge"
+    },
+    {
+      "id": 16967,
+      "firstName": "Nathanial",
+      "lastName": "Hettinger",
+      "state": "Florida",
+      "address": "991 McGlynn Park"
+    },
+    {
+      "id": 4439,
+      "firstName": "Kaylah",
+      "lastName": "Boyle",
+      "state": "North Carolina",
+      "address": "701 Jamison Station"
+    },
+    {
+      "id": 45815,
+      "firstName": "Laverna",
+      "lastName": "Skiles",
+      "state": "South Dakota",
+      "address": "04924 Murazik Mill"
+    },
+    {
+      "id": 33642,
+      "firstName": "Franco",
+      "lastName": "Lehner",
+      "state": "California",
+      "address": "742 Afton Circle"
+    },
+    {
+      "id": 135,
+      "firstName": "Idell",
+      "lastName": "Renner",
+      "state": "Texas",
+      "address": "96603 Donnelly Ramp"
+    },
+    {
+      "id": 21150,
+      "firstName": "Frederic",
+      "lastName": "Schuster",
+      "state": "Washington",
+      "address": "6127 Deshawn Square"
+    },
+    {
+      "id": 91218,
+      "firstName": "Gunnar",
+      "lastName": "Paucek",
+      "state": "Connecticut",
+      "address": "519 Yost Crossing"
+    },
+    {
+      "id": 31542,
+      "firstName": "Deron",
+      "lastName": "Turner",
+      "state": "Rhode Island",
+      "address": "51189 Bednar Mission"
+    },
+    {
+      "id": 85548,
+      "firstName": "Miller",
+      "lastName": "Lebsack",
+      "state": "Illinois",
+      "address": "793 Kelvin Creek"
+    },
+    {
+      "id": 2707,
+      "firstName": "Triston",
+      "lastName": "Grant",
+      "state": "Missouri",
+      "address": "60945 Aurore Harbors"
+    },
+    {
+      "id": 80610,
+      "firstName": "Arnaldo",
+      "lastName": "Sporer",
+      "state": "Iowa",
+      "address": "6313 Jarrell Street"
+    },
+    {
+      "id": 84232,
+      "firstName": "Sunny",
+      "lastName": "Goldner",
+      "state": "Delaware",
+      "address": "60999 Cassin Cliffs"
+    },
+    {
+      "id": 64980,
+      "firstName": "Vergie",
+      "lastName": "Bechtelar",
+      "state": "Pennsylvania",
+      "address": "63373 Olson Well"
+    },
+    {
+      "id": 49131,
+      "firstName": "Keeley",
+      "lastName": "Frami",
+      "state": "Indiana",
+      "address": "7333 Hildegard Flats"
+    },
+    {
+      "id": 4856,
+      "firstName": "Anita",
+      "lastName": "Towne",
+      "state": "Wyoming",
+      "address": "9786 Brianne Gateway"
+    },
+    {
+      "id": 19670,
+      "firstName": "Karl",
+      "lastName": "Hackett",
+      "state": "Colorado",
+      "address": "03148 Braxton Loaf"
+    },
+    {
+      "id": 28285,
+      "firstName": "Candida",
+      "lastName": "Veum",
+      "state": "Kentucky",
+      "address": "63794 Blanda Tunnel"
+    },
+    {
+      "id": 95257,
+      "firstName": "Joy",
+      "lastName": "Kilback",
+      "state": "Massachusetts",
+      "address": "475 Willis Pines"
+    },
+    {
+      "id": 10800,
+      "firstName": "Ben",
+      "lastName": "Simonis",
+      "state": "Rhode Island",
+      "address": "4304 Wolf Station"
+    },
+    {
+      "id": 73065,
+      "firstName": "Alfonzo",
+      "lastName": "Braun",
+      "state": "Idaho",
+      "address": "1403 Renner Ford"
+    },
+    {
+      "id": 71673,
+      "firstName": "Wilmer",
+      "lastName": "Feeney",
+      "state": "Alaska",
+      "address": "60719 Hoppe Ports"
+    },
+    {
+      "id": 82226,
+      "firstName": "Dexter",
+      "lastName": "Lemke",
+      "state": "Maryland",
+      "address": "2916 O'Hara Lane"
+    },
+    {
+      "id": 67130,
+      "firstName": "Blaze",
+      "lastName": "Sanford",
+      "state": "Ohio",
+      "address": "0599 Lane Vista"
+    },
+    {
+      "id": 26588,
+      "firstName": "Agustin",
+      "lastName": "Kiehn",
+      "state": "Maine",
+      "address": "690 Maximillia Meadow"
+    },
+    {
+      "id": 7047,
+      "firstName": "Sarina",
+      "lastName": "Durgan",
+      "state": "Hawaii",
+      "address": "4871 Reilly Vista"
+    },
+    {
+      "id": 18730,
+      "firstName": "Raegan",
+      "lastName": "Walker",
+      "state": "Hawaii",
+      "address": "203 Kutch Rapids"
+    },
+    {
+      "id": 99167,
+      "firstName": "Rhett",
+      "lastName": "Purdy",
+      "state": "Maine",
+      "address": "703 Zena Extensions"
+    },
+    {
+      "id": 78371,
+      "firstName": "Jo",
+      "lastName": "Murray",
+      "state": "West Virginia",
+      "address": "7575 McKenzie Meadow"
+    },
+    {
+      "id": 32526,
+      "firstName": "Valentine",
+      "lastName": "Wilkinson",
+      "state": "New Hampshire",
+      "address": "49963 Keeley Ports"
+    },
+    {
+      "id": 57530,
+      "firstName": "Karelle",
+      "lastName": "MacGyver",
+      "state": "Illinois",
+      "address": "6821 Crooks Pine"
+    },
+    {
+      "id": 81728,
+      "firstName": "Ocie",
+      "lastName": "Nitzsche",
+      "state": "Washington",
+      "address": "70275 Cullen Coves"
+    },
+    {
+      "id": 45091,
+      "firstName": "Erich",
+      "lastName": "Ledner",
+      "state": "Vermont",
+      "address": "4080 Lesch Greens"
+    },
+    {
+      "id": 53913,
+      "firstName": "Charity",
+      "lastName": "Macejkovic",
+      "state": "Washington",
+      "address": "98678 Larson Parkway"
+    },
+    {
+      "id": 35085,
+      "firstName": "Darrel",
+      "lastName": "Dicki",
+      "state": "Indiana",
+      "address": "90684 Stehr Forges"
+    },
+    {
+      "id": 58262,
+      "firstName": "Lacy",
+      "lastName": "Schaefer",
+      "state": "North Carolina",
+      "address": "308 Andreanne Ports"
+    },
+    {
+      "id": 54456,
+      "firstName": "Jevon",
+      "lastName": "Collier",
+      "state": "Kansas",
+      "address": "3523 Sawayn Shores"
+    },
+    {
+      "id": 69110,
+      "firstName": "Hanna",
+      "lastName": "Crona",
+      "state": "Arizona",
+      "address": "90376 Cummings Courts"
+    },
+    {
+      "id": 2909,
+      "firstName": "Nathanial",
+      "lastName": "Gottlieb",
+      "state": "Pennsylvania",
+      "address": "6175 Herman Islands"
+    },
+    {
+      "id": 68672,
+      "firstName": "Selmer",
+      "lastName": "Auer",
+      "state": "Iowa",
+      "address": "66119 Ruben Rest"
+    },
+    {
+      "id": 23116,
+      "firstName": "Daisha",
+      "lastName": "Schneider",
+      "state": "Oregon",
+      "address": "4423 Lourdes Track"
+    },
+    {
+      "id": 41400,
+      "firstName": "Alysa",
+      "lastName": "Hickle",
+      "state": "Nevada",
+      "address": "3387 Rosenbaum Squares"
+    },
+    {
+      "id": 87094,
+      "firstName": "Giovanna",
+      "lastName": "Jaskolski",
+      "state": "Iowa",
+      "address": "4764 Mills Curve"
+    },
+    {
+      "id": 94873,
+      "firstName": "Theodore",
+      "lastName": "Bernier",
+      "state": "New York",
+      "address": "354 Sydnie Square"
+    },
+    {
+      "id": 28630,
+      "firstName": "Sage",
+      "lastName": "Hoppe",
+      "state": "Minnesota",
+      "address": "99056 Bashirian Crescent"
+    },
+    {
+      "id": 43382,
+      "firstName": "Quinton",
+      "lastName": "Lehner",
+      "state": "New Hampshire",
+      "address": "5210 Chaya Pike"
+    },
+    {
+      "id": 13265,
+      "firstName": "Aliya",
+      "lastName": "Pacocha",
+      "state": "Pennsylvania",
+      "address": "75540 Konopelski View"
+    },
+    {
+      "id": 18002,
+      "firstName": "Nicholaus",
+      "lastName": "Bahringer",
+      "state": "Kansas",
+      "address": "83177 Wisoky Gardens"
+    },
+    {
+      "id": 23115,
+      "firstName": "Christopher",
+      "lastName": "Johnston",
+      "state": "Delaware",
+      "address": "988 Ivory Key"
+    },
+    {
+      "id": 65613,
+      "firstName": "Stefan",
+      "lastName": "Parisian",
+      "state": "Kansas",
+      "address": "56512 Devon Throughway"
+    },
+    {
+      "id": 72980,
+      "firstName": "Rylee",
+      "lastName": "Gislason",
+      "state": "North Carolina",
+      "address": "117 Stanton Glens"
+    },
+    {
+      "id": 49440,
+      "firstName": "Berry",
+      "lastName": "Yundt",
+      "state": "Kentucky",
+      "address": "7254 Cremin Meadow"
+    },
+    {
+      "id": 92098,
+      "firstName": "Robb",
+      "lastName": "Jones",
+      "state": "Florida",
+      "address": "8886 Marvin Garden"
+    },
+    {
+      "id": 21042,
+      "firstName": "Jannie",
+      "lastName": "Boehm",
+      "state": "Wisconsin",
+      "address": "2109 Estel Islands"
+    },
+    {
+      "id": 72869,
+      "firstName": "Katheryn",
+      "lastName": "Leffler",
+      "state": "Mississippi",
+      "address": "10630 Howe Skyway"
+    },
+    {
+      "id": 98404,
+      "firstName": "Emory",
+      "lastName": "Konopelski",
+      "state": "New Jersey",
+      "address": "08962 Reta Burg"
+    },
+    {
+      "id": 67496,
+      "firstName": "Remington",
+      "lastName": "Bahringer",
+      "state": "North Carolina",
+      "address": "28884 Juliana Lights"
+    },
+    {
+      "id": 57284,
+      "firstName": "Erich",
+      "lastName": "Schoen",
+      "state": "Wisconsin",
+      "address": "3650 Hansen Track"
+    },
+    {
+      "id": 71900,
+      "firstName": "Beth",
+      "lastName": "Moore",
+      "state": "Kentucky",
+      "address": "5337 Carmen Wells"
+    },
+    {
+      "id": 84391,
+      "firstName": "Billie",
+      "lastName": "Wisozk",
+      "state": "Colorado",
+      "address": "6535 Edison Ways"
+    },
+    {
+      "id": 22571,
+      "firstName": "Soledad",
+      "lastName": "Nader",
+      "state": "Idaho",
+      "address": "275 Langworth Trace"
+    },
+    {
+      "id": 80813,
+      "firstName": "Fidel",
+      "lastName": "Nolan",
+      "state": "Hawaii",
+      "address": "9562 Salvatore Mall"
+    }
+  ],
+  "catches": {
+    "135": [
+      {
+        "date": "2014-4-1",
+        "specie": "Moby dick",
+        "weight": 40.5726288496751,
+        "lake": "Rath Lake",
+        "coordinates": "(6961,47476)"
+      },
+      {
+        "date": "2019-6-4",
+        "specie": "Alien",
+        "weight": 96.93295512429066,
+        "lake": "Wunsch Lake",
+        "coordinates": "(33801,97169)"
+      },
+      {
+        "date": "2013-12-21",
+        "specie": "Megalodon",
+        "weight": 63.99718606109091,
+        "lake": "Armstrong Lake",
+        "coordinates": "(63526,26506)"
+      },
+      {
+        "date": "2020-6-4",
+        "specie": "test",
+        "weight": "12412",
+        "lake": "test",
+        "coordinates": "test"
+      }
+    ],
+    "1356": [
+      {
+        "date": "2016-3-13",
+        "specie": "Megalodon",
+        "weight": 23.547627086518297,
+        "lake": "Williamson Lake",
+        "coordinates": "(65799,31787)"
+      },
+      {
+        "date": "2015-11-25",
+        "specie": "Moby dick",
+        "weight": 24.90755214620439,
+        "lake": "Kilback Lake",
+        "coordinates": "(25133,2531)"
+      },
+      {
+        "date": "2014-6-25",
+        "specie": "Moby dick",
+        "weight": 71.0949577528584,
+        "lake": "Gleason Lake",
+        "coordinates": "(69935,12369)"
+      }
+    ],
+    "2707": [
+      {
+        "date": "2013-4-24",
+        "specie": "Moby dick",
+        "weight": 64.35503156083087,
+        "lake": "Rau Lake",
+        "coordinates": "(16374,72214)"
+      },
+      {
+        "date": "2011-9-18",
+        "specie": "Alien",
+        "weight": 36.24490355601995,
+        "lake": "Walker Lake",
+        "coordinates": "(39155,93024)"
+      },
+      {
+        "date": "2013-4-22",
+        "specie": "Moby dick",
+        "weight": 95.69460580591418,
+        "lake": "Davis Lake",
+        "coordinates": "(70403,3443)"
+      }
+    ],
+    "2909": [
+      {
+        "date": "2009-10-27",
+        "specie": "Megalodon",
+        "weight": 92.20871651764742,
+        "lake": "Gleichner Lake",
+        "coordinates": "(34023,76270)"
+      },
+      {
+        "date": "2017-7-12",
+        "specie": "Bloop",
+        "weight": 71.68636225094235,
+        "lake": "Hilpert Lake",
+        "coordinates": "(6506,16189)"
+      },
+      {
+        "date": "2011-8-27",
+        "specie": "Moby dick",
+        "weight": 28.35052137495424,
+        "lake": "Langosh Lake",
+        "coordinates": "(77507,92253)"
+      }
+    ],
+    "3445": [
+      {
+        "date": "2018-11-22",
+        "specie": "Bloop",
+        "weight": 64.09986980445217,
+        "lake": "Gutkowski Lake",
+        "coordinates": "(93655,2947)"
+      },
+      {
+        "date": "2016-10-2",
+        "specie": "Moby dick",
+        "weight": 43.73860512113173,
+        "lake": "Hane Lake",
+        "coordinates": "(8891,47874)"
+      },
+      {
+        "date": "2012-5-12",
+        "specie": "Alien",
+        "weight": 39.205396465672784,
+        "lake": "Connelly Lake",
+        "coordinates": "(11944,10978)"
+      }
+    ],
+    "4439": [
+      {
+        "date": "2019-2-22",
+        "specie": "Moby dick",
+        "weight": 65.36956942632128,
+        "lake": "Sipes Lake",
+        "coordinates": "(89959,47414)"
+      },
+      {
+        "date": "2019-12-14",
+        "specie": "Moby dick",
+        "weight": 71.33607846943197,
+        "lake": "Deckow Lake",
+        "coordinates": "(12618,8463)"
+      },
+      {
+        "date": "2015-10-15",
+        "specie": "Moby dick",
+        "weight": 17.102724137683147,
+        "lake": "Howell Lake",
+        "coordinates": "(76531,27853)"
+      }
+    ],
+    "4856": [
+      {
+        "date": "2015-4-28",
+        "specie": "Megalodon",
+        "weight": 85.42578964399326,
+        "lake": "Thompson Lake",
+        "coordinates": "(55545,97996)"
+      },
+      {
+        "date": "2018-12-10",
+        "specie": "Bloop",
+        "weight": 92.2210522211661,
+        "lake": "Hilll Lake",
+        "coordinates": "(62262,64384)"
+      },
+      {
+        "date": "2016-3-26",
+        "specie": "Bloop",
+        "weight": 87.2715798492614,
+        "lake": "Predovic Lake",
+        "coordinates": "(58642,5853)"
+      }
+    ],
+    "6712": [
+      {
+        "date": "2010-9-19",
+        "specie": "Megalodon",
+        "weight": 75.55207035154888,
+        "lake": "O'Keefe Lake",
+        "coordinates": "(11676,70734)"
+      },
+      {
+        "date": "2012-12-13",
+        "specie": "Alien",
+        "weight": 32.06128740805887,
+        "lake": "Muller Lake",
+        "coordinates": "(78592,22333)"
+      },
+      {
+        "date": "2012-9-9",
+        "specie": "Bloop",
+        "weight": 14.125857464430268,
+        "lake": "VonRueden Lake",
+        "coordinates": "(8656,87245)"
+      }
+    ],
+    "7047": [
+      {
+        "date": "2015-11-17",
+        "specie": "Alien",
+        "weight": 30.671655223320094,
+        "lake": "Dooley Lake",
+        "coordinates": "(7740,84192)"
+      },
+      {
+        "date": "2011-10-25",
+        "specie": "Bloop",
+        "weight": 23.457944140554908,
+        "lake": "Nader Lake",
+        "coordinates": "(75960,44084)"
+      },
+      {
+        "date": "2010-1-21",
+        "specie": "Megalodon",
+        "weight": 65.218851209467,
+        "lake": "Marvin Lake",
+        "coordinates": "(38389,56557)"
+      }
+    ],
+    "10800": [
+      {
+        "date": "2016-4-29",
+        "specie": "Moby dick",
+        "weight": 28.95312718637757,
+        "lake": "Schmeler Lake",
+        "coordinates": "(19632,45753)"
+      },
+      {
+        "date": "2011-4-23",
+        "specie": "Alien",
+        "weight": 6.133275133251881,
+        "lake": "Nienow Lake",
+        "coordinates": "(13004,21056)"
+      },
+      {
+        "date": "2010-2-7",
+        "specie": "Bloop",
+        "weight": 9.601516684411626,
+        "lake": "Goyette Lake",
+        "coordinates": "(22833,19194)"
+      }
+    ],
+    "11423": [
+      {
+        "date": "2014-6-29",
+        "specie": "Moby dick",
+        "weight": 91.89240268518229,
+        "lake": "Schoen Lake",
+        "coordinates": "(99838,34852)"
+      },
+      {
+        "date": "2016-6-11",
+        "specie": "Megalodon",
+        "weight": 67.8285491789479,
+        "lake": "Adams Lake",
+        "coordinates": "(86094,1364)"
+      },
+      {
+        "date": "2017-8-2",
+        "specie": "Bloop",
+        "weight": 85.80573758818926,
+        "lake": "Johnston Lake",
+        "coordinates": "(2551,4636)"
+      }
+    ],
+    "13265": [
+      {
+        "date": "2010-5-22",
+        "specie": "Bloop",
+        "weight": 86.2811965206132,
+        "lake": "Kuvalis Lake",
+        "coordinates": "(67283,21453)"
+      },
+      {
+        "date": "2014-3-2",
+        "specie": "Megalodon",
+        "weight": 12.384923909412482,
+        "lake": "Thompson Lake",
+        "coordinates": "(27869,63553)"
+      },
+      {
+        "date": "2013-12-11",
+        "specie": "Bloop",
+        "weight": 4.253048854828445,
+        "lake": "Hills Lake",
+        "coordinates": "(78150,47648)"
+      }
+    ],
+    "15025": [
+      {
+        "date": "2017-1-21",
+        "specie": "Alien",
+        "weight": 87.89463317560724,
+        "lake": "Doyle Lake",
+        "coordinates": "(59392,49029)"
+      },
+      {
+        "date": "2010-7-9",
+        "specie": "Alien",
+        "weight": 21.74503452986738,
+        "lake": "Rau Lake",
+        "coordinates": "(92847,70309)"
+      },
+      {
+        "date": "2011-5-31",
+        "specie": "Alien",
+        "weight": 42.414062099837004,
+        "lake": "Botsford Lake",
+        "coordinates": "(73534,25741)"
+      }
+    ],
+    "16967": [
+      {
+        "date": "2015-1-12",
+        "specie": "Moby dick",
+        "weight": 67.7871069137476,
+        "lake": "Sawayn Lake",
+        "coordinates": "(17449,3146)"
+      },
+      {
+        "date": "2016-7-8",
+        "specie": "Megalodon",
+        "weight": 12.491962423406733,
+        "lake": "Goodwin Lake",
+        "coordinates": "(97877,14570)"
+      },
+      {
+        "date": "2015-2-1",
+        "specie": "Bloop",
+        "weight": 51.88503434079066,
+        "lake": "Turner Lake",
+        "coordinates": "(95372,23095)"
+      }
+    ],
+    "18002": [
+      {
+        "date": "2012-7-11",
+        "specie": "Alien",
+        "weight": 84.14361196183357,
+        "lake": "Miller Lake",
+        "coordinates": "(97001,19484)"
+      },
+      {
+        "date": "2009-8-22",
+        "specie": "Moby dick",
+        "weight": 16.83057420612093,
+        "lake": "O'Keefe Lake",
+        "coordinates": "(93245,40780)"
+      },
+      {
+        "date": "2019-10-12",
+        "specie": "Megalodon",
+        "weight": 20.195668279481115,
+        "lake": "Walsh Lake",
+        "coordinates": "(8019,293)"
+      }
+    ],
+    "18730": [
+      {
+        "date": "2019-5-27",
+        "specie": "Moby dick",
+        "weight": 59.453304516058104,
+        "lake": "Price Lake",
+        "coordinates": "(9629,97163)"
+      },
+      {
+        "date": "2015-4-27",
+        "specie": "Megalodon",
+        "weight": 1.2129878707135777,
+        "lake": "Dibbert Lake",
+        "coordinates": "(24039,69902)"
+      },
+      {
+        "date": "2017-4-25",
+        "specie": "Bloop",
+        "weight": 47.20219153397369,
+        "lake": "Beahan Lake",
+        "coordinates": "(30534,75913)"
+      }
+    ],
+    "19670": [
+      {
+        "date": "2010-4-17",
+        "specie": "Megalodon",
+        "weight": 32.82379852172721,
+        "lake": "Schaden Lake",
+        "coordinates": "(23920,78662)"
+      },
+      {
+        "date": "2012-1-30",
+        "specie": "Alien",
+        "weight": 25.03545531104909,
+        "lake": "Bins Lake",
+        "coordinates": "(85758,70180)"
+      },
+      {
+        "date": "2009-9-23",
+        "specie": "Moby dick",
+        "weight": 17.805761297909317,
+        "lake": "Ortiz Lake",
+        "coordinates": "(96067,65281)"
+      }
+    ],
+    "20099": [
+      {
+        "date": "2016-11-18",
+        "specie": "Megalodon",
+        "weight": 4.271973379337113,
+        "lake": "Bergnaum Lake",
+        "coordinates": "(15171,58217)"
+      },
+      {
+        "date": "2009-7-11",
+        "specie": "Megalodon",
+        "weight": 21.3401355432008,
+        "lake": "Jones Lake",
+        "coordinates": "(25903,92962)"
+      },
+      {
+        "date": "2013-11-20",
+        "specie": "Alien",
+        "weight": 51.928659870511005,
+        "lake": "Ratke Lake",
+        "coordinates": "(36305,10914)"
+      }
+    ],
+    "21042": [
+      {
+        "date": "2017-9-3",
+        "specie": "Megalodon",
+        "weight": 63.4803294160738,
+        "lake": "Connelly Lake",
+        "coordinates": "(86451,88814)"
+      },
+      {
+        "date": "2015-1-1",
+        "specie": "Bloop",
+        "weight": 31.632464014010807,
+        "lake": "Oberbrunner Lake",
+        "coordinates": "(22003,65576)"
+      },
+      {
+        "date": "2013-7-30",
+        "specie": "Moby dick",
+        "weight": 17.315813724191088,
+        "lake": "Luettgen Lake",
+        "coordinates": "(57337,79018)"
+      }
+    ],
+    "21150": [
+      {
+        "date": "2015-9-8",
+        "specie": "Moby dick",
+        "weight": 88.21422593815468,
+        "lake": "Block Lake",
+        "coordinates": "(1886,28571)"
+      },
+      {
+        "date": "2010-12-27",
+        "specie": "Megalodon",
+        "weight": 50.53175905549689,
+        "lake": "Volkman Lake",
+        "coordinates": "(34665,4624)"
+      },
+      {
+        "date": "2018-2-5",
+        "specie": "Alien",
+        "weight": 1.9709059223995018,
+        "lake": "Ruecker Lake",
+        "coordinates": "(56976,4762)"
+      }
+    ],
+    "22571": [
+      {
+        "date": "2020-2-29",
+        "specie": "Megalodon",
+        "weight": 46.908296254403446,
+        "lake": "Nienow Lake",
+        "coordinates": "(37381,44178)"
+      },
+      {
+        "date": "2018-7-23",
+        "specie": "Alien",
+        "weight": 41.01104950358865,
+        "lake": "Emmerich Lake",
+        "coordinates": "(85841,79379)"
+      },
+      {
+        "date": "2012-1-8",
+        "specie": "Alien",
+        "weight": 60.278281904343785,
+        "lake": "Harber Lake",
+        "coordinates": "(5478,12058)"
+      }
+    ],
+    "23115": [
+      {
+        "date": "2014-7-1",
+        "specie": "Alien",
+        "weight": 14.345981522778217,
+        "lake": "Cremin Lake",
+        "coordinates": "(45124,76082)"
+      },
+      {
+        "date": "2011-12-12",
+        "specie": "Moby dick",
+        "weight": 32.35979899182135,
+        "lake": "Bruen Lake",
+        "coordinates": "(69332,27395)"
+      },
+      {
+        "date": "2016-11-14",
+        "specie": "Alien",
+        "weight": 69.05101273171998,
+        "lake": "Ryan Lake",
+        "coordinates": "(30745,73569)"
+      }
+    ],
+    "23116": [
+      {
+        "date": "2013-8-7",
+        "specie": "Moby dick",
+        "weight": 63.38411890528774,
+        "lake": "Wiegand Lake",
+        "coordinates": "(25875,72620)"
+      },
+      {
+        "date": "2017-4-30",
+        "specie": "Megalodon",
+        "weight": 48.01329042769746,
+        "lake": "Feil Lake",
+        "coordinates": "(71230,46476)"
+      },
+      {
+        "date": "2014-11-10",
+        "specie": "Bloop",
+        "weight": 16.614267962817554,
+        "lake": "Ritchie Lake",
+        "coordinates": "(31759,24587)"
+      }
+    ],
+    "26588": [
+      {
+        "date": "2015-5-26",
+        "specie": "Alien",
+        "weight": 20.885062238055816,
+        "lake": "Morissette Lake",
+        "coordinates": "(43323,24015)"
+      },
+      {
+        "date": "2011-6-28",
+        "specie": "Megalodon",
+        "weight": 38.02516651426853,
+        "lake": "Cormier Lake",
+        "coordinates": "(86681,15826)"
+      },
+      {
+        "date": "2019-3-10",
+        "specie": "Megalodon",
+        "weight": 68.34345556303757,
+        "lake": "Brekke Lake",
+        "coordinates": "(60302,39799)"
+      }
+    ],
+    "28285": [
+      {
+        "date": "2010-4-8",
+        "specie": "Moby dick",
+        "weight": 94.25202904646173,
+        "lake": "Nolan Lake",
+        "coordinates": "(86433,2058)"
+      },
+      {
+        "date": "2012-2-8",
+        "specie": "Bloop",
+        "weight": 20.12997139263333,
+        "lake": "Kshlerin Lake",
+        "coordinates": "(68256,95064)"
+      },
+      {
+        "date": "2009-11-25",
+        "specie": "Alien",
+        "weight": 0.2950214010409846,
+        "lake": "Upton Lake",
+        "coordinates": "(90345,1712)"
+      }
+    ],
+    "28630": [
+      {
+        "date": "2015-11-3",
+        "specie": "Moby dick",
+        "weight": 33.65220555858719,
+        "lake": "Streich Lake",
+        "coordinates": "(83313,59226)"
+      },
+      {
+        "date": "2011-12-4",
+        "specie": "Moby dick",
+        "weight": 28.895996547973745,
+        "lake": "Zboncak Lake",
+        "coordinates": "(94406,8447)"
+      },
+      {
+        "date": "2015-3-21",
+        "specie": "Bloop",
+        "weight": 16.629455579931562,
+        "lake": "Bashirian Lake",
+        "coordinates": "(22607,67984)"
+      }
+    ],
+    "28705": [
+      {
+        "date": "2015-9-1",
+        "specie": "Bloop",
+        "weight": 63.954355384424375,
+        "lake": "Luettgen Lake",
+        "coordinates": "(57220,14969)"
+      },
+      {
+        "date": "2014-8-10",
+        "specie": "Bloop",
+        "weight": 39.71702198974978,
+        "lake": "Stehr Lake",
+        "coordinates": "(44773,87237)"
+      },
+      {
+        "date": "2011-4-16",
+        "specie": "Alien",
+        "weight": 98.47012206585981,
+        "lake": "Rau Lake",
+        "coordinates": "(63044,41205)"
+      }
+    ],
+    "30770": [
+      {
+        "date": "2015-2-26",
+        "specie": "Megalodon",
+        "weight": 36.24510587517265,
+        "lake": "Walter Lake",
+        "coordinates": "(39096,78169)"
+      },
+      {
+        "date": "2020-3-17",
+        "specie": "Bloop",
+        "weight": 36.88754631654974,
+        "lake": "Murray Lake",
+        "coordinates": "(26484,33336)"
+      },
+      {
+        "date": "2011-11-21",
+        "specie": "Moby dick",
+        "weight": 24.456054238265644,
+        "lake": "Feeney Lake",
+        "coordinates": "(67435,32003)"
+      }
+    ],
+    "31542": [
+      {
+        "date": "2012-10-4",
+        "specie": "Alien",
+        "weight": 62.843353237581745,
+        "lake": "Robel Lake",
+        "coordinates": "(56147,31675)"
+      },
+      {
+        "date": "2015-4-1",
+        "specie": "Alien",
+        "weight": 84.09505408694469,
+        "lake": "Upton Lake",
+        "coordinates": "(31934,22506)"
+      },
+      {
+        "date": "2014-4-5",
+        "specie": "Bloop",
+        "weight": 38.818861981139484,
+        "lake": "Mohr Lake",
+        "coordinates": "(94845,58514)"
+      }
+    ],
+    "32526": [
+      {
+        "date": "2012-8-30",
+        "specie": "Moby dick",
+        "weight": 50.803593129954194,
+        "lake": "Dibbert Lake",
+        "coordinates": "(96827,87030)"
+      },
+      {
+        "date": "2014-4-2",
+        "specie": "Megalodon",
+        "weight": 93.85367928565458,
+        "lake": "Abshire Lake",
+        "coordinates": "(2660,89034)"
+      },
+      {
+        "date": "2018-3-27",
+        "specie": "Moby dick",
+        "weight": 40.31991331778444,
+        "lake": "Goodwin Lake",
+        "coordinates": "(48507,12789)"
+      }
+    ],
+    "33642": [
+      {
+        "date": "2017-9-17",
+        "specie": "Alien",
+        "weight": 37.248093125911176,
+        "lake": "Hermann Lake",
+        "coordinates": "(44393,45236)"
+      },
+      {
+        "date": "2015-5-2",
+        "specie": "Megalodon",
+        "weight": 62.770566178508716,
+        "lake": "Harris Lake",
+        "coordinates": "(85081,7780)"
+      },
+      {
+        "date": "2019-7-24",
+        "specie": "Alien",
+        "weight": 32.85658208302944,
+        "lake": "Kihn Lake",
+        "coordinates": "(51072,51332)"
+      }
+    ],
+    "35085": [
+      {
+        "date": "2016-11-20",
+        "specie": "Bloop",
+        "weight": 97.77386489233977,
+        "lake": "Donnelly Lake",
+        "coordinates": "(91238,78266)"
+      },
+      {
+        "date": "2012-2-6",
+        "specie": "Bloop",
+        "weight": 97.0604618942059,
+        "lake": "Sauer Lake",
+        "coordinates": "(93465,75321)"
+      },
+      {
+        "date": "2016-12-17",
+        "specie": "Moby dick",
+        "weight": 1.4084348092882282,
+        "lake": "Haag Lake",
+        "coordinates": "(63497,64410)"
+      }
+    ],
+    "40166": [
+      {
+        "date": "2019-12-17",
+        "specie": "Alien",
+        "weight": 53.93131965270932,
+        "lake": "Herman Lake",
+        "coordinates": "(76224,91317)"
+      },
+      {
+        "date": "2017-3-22",
+        "specie": "Megalodon",
+        "weight": 73.6820972591314,
+        "lake": "Walter Lake",
+        "coordinates": "(89762,51359)"
+      },
+      {
+        "date": "2015-11-26",
+        "specie": "Bloop",
+        "weight": 84.18401270139194,
+        "lake": "Heaney Lake",
+        "coordinates": "(26835,984)"
+      }
+    ],
+    "41315": [
+      {
+        "date": "2010-9-19",
+        "specie": "Megalodon",
+        "weight": 74.40884014721117,
+        "lake": "Tillman Lake",
+        "coordinates": "(54643,5025)"
+      },
+      {
+        "date": "2009-6-30",
+        "specie": "Alien",
+        "weight": 43.915580696360415,
+        "lake": "Roob Lake",
+        "coordinates": "(3128,31321)"
+      },
+      {
+        "date": "2019-12-7",
+        "specie": "Megalodon",
+        "weight": 44.91155696192162,
+        "lake": "Murray Lake",
+        "coordinates": "(5394,30527)"
+      }
+    ],
+    "41400": [
+      {
+        "date": "2012-1-11",
+        "specie": "Alien",
+        "weight": 45.937364621326715,
+        "lake": "Wisozk Lake",
+        "coordinates": "(61034,76508)"
+      },
+      {
+        "date": "2018-2-19",
+        "specie": "Megalodon",
+        "weight": 87.31763280472076,
+        "lake": "Barton Lake",
+        "coordinates": "(59518,71502)"
+      },
+      {
+        "date": "2019-4-19",
+        "specie": "Alien",
+        "weight": 67.15748902423712,
+        "lake": "Klein Lake",
+        "coordinates": "(87157,77381)"
+      }
+    ],
+    "41621": [
+      {
+        "date": "2018-8-27",
+        "specie": "Megalodon",
+        "weight": 18.6203062512452,
+        "lake": "Greenholt Lake",
+        "coordinates": "(2081,24178)"
+      },
+      {
+        "date": "2013-10-16",
+        "specie": "Alien",
+        "weight": 17.492868666395456,
+        "lake": "Murphy Lake",
+        "coordinates": "(94656,2051)"
+      },
+      {
+        "date": "2013-7-30",
+        "specie": "Moby dick",
+        "weight": 94.44625653085315,
+        "lake": "Sawayn Lake",
+        "coordinates": "(13518,37587)"
+      }
+    ],
+    "41730": [
+      {
+        "date": "2009-10-1",
+        "specie": "Megalodon",
+        "weight": 90.16390748345945,
+        "lake": "Heller Lake",
+        "coordinates": "(14915,26834)"
+      },
+      {
+        "date": "2016-2-8",
+        "specie": "Moby dick",
+        "weight": 8.239415130985538,
+        "lake": "Stiedemann Lake",
+        "coordinates": "(57085,11669)"
+      },
+      {
+        "date": "2016-11-7",
+        "specie": "Moby dick",
+        "weight": 97.18191804624408,
+        "lake": "Kreiger Lake",
+        "coordinates": "(84258,29424)"
+      }
+    ],
+    "43382": [
+      {
+        "date": "2016-7-9",
+        "specie": "Alien",
+        "weight": 75.00064299261831,
+        "lake": "Weissnat Lake",
+        "coordinates": "(44624,71119)"
+      },
+      {
+        "date": "2017-7-27",
+        "specie": "Megalodon",
+        "weight": 52.52753560909369,
+        "lake": "Dicki Lake",
+        "coordinates": "(10394,36739)"
+      },
+      {
+        "date": "2011-5-16",
+        "specie": "Bloop",
+        "weight": 0.6384756902285016,
+        "lake": "Reichel Lake",
+        "coordinates": "(20529,1357)"
+      }
+    ],
+    "43629": [
+      {
+        "date": "2011-2-17",
+        "specie": "Bloop",
+        "weight": 20.263781247497683,
+        "lake": "Hilpert Lake",
+        "coordinates": "(30252,88042)"
+      },
+      {
+        "date": "2010-7-21",
+        "specie": "Moby dick",
+        "weight": 82.79250932766939,
+        "lake": "Metz Lake",
+        "coordinates": "(51464,95634)"
+      },
+      {
+        "date": "2010-7-24",
+        "specie": "Bloop",
+        "weight": 79.76278732566291,
+        "lake": "Herzog Lake",
+        "coordinates": "(34895,90331)"
+      }
+    ],
+    "45091": [
+      {
+        "date": "2009-7-27",
+        "specie": "Alien",
+        "weight": 74.49278622198115,
+        "lake": "Rice Lake",
+        "coordinates": "(68849,65345)"
+      },
+      {
+        "date": "2020-2-29",
+        "specie": "Megalodon",
+        "weight": 88.16565447499183,
+        "lake": "Aufderhar Lake",
+        "coordinates": "(67962,85900)"
+      },
+      {
+        "date": "2013-9-29",
+        "specie": "Alien",
+        "weight": 40.31047240869039,
+        "lake": "Luettgen Lake",
+        "coordinates": "(73140,10546)"
+      }
+    ],
+    "45157": [
+      {
+        "date": "2018-1-9",
+        "specie": "Moby dick",
+        "weight": 13.93464848976873,
+        "lake": "Kub Lake",
+        "coordinates": "(25043,26261)"
+      },
+      {
+        "date": "2017-6-3",
+        "specie": "Alien",
+        "weight": 34.5633785031721,
+        "lake": "Runolfsson Lake",
+        "coordinates": "(22500,97734)"
+      },
+      {
+        "date": "2011-12-2",
+        "specie": "Megalodon",
+        "weight": 67.22784764564848,
+        "lake": "Lesch Lake",
+        "coordinates": "(58729,80605)"
+      }
+    ],
+    "45815": [
+      {
+        "date": "2017-6-12",
+        "specie": "Moby dick",
+        "weight": 72.42267510993973,
+        "lake": "Aufderhar Lake",
+        "coordinates": "(84654,26263)"
+      },
+      {
+        "date": "2018-9-22",
+        "specie": "Bloop",
+        "weight": 37.64701456920609,
+        "lake": "Jerde Lake",
+        "coordinates": "(56390,74640)"
+      },
+      {
+        "date": "2011-8-27",
+        "specie": "Bloop",
+        "weight": 82.67370597165751,
+        "lake": "Brakus Lake",
+        "coordinates": "(64917,48366)"
+      }
+    ],
+    "47611": [
+      {
+        "date": "2018-11-18",
+        "specie": "Alien",
+        "weight": 35.453686244716565,
+        "lake": "Schaden Lake",
+        "coordinates": "(57018,45820)"
+      },
+      {
+        "date": "2016-11-5",
+        "specie": "Megalodon",
+        "weight": 1.906919889394465,
+        "lake": "Blanda Lake",
+        "coordinates": "(98985,13391)"
+      },
+      {
+        "date": "2011-11-4",
+        "specie": "Alien",
+        "weight": 38.20239704871145,
+        "lake": "MacGyver Lake",
+        "coordinates": "(45784,54831)"
+      }
+    ],
+    "49131": [
+      {
+        "date": "2010-1-16",
+        "specie": "Megalodon",
+        "weight": 67.56690038614579,
+        "lake": "Kihn Lake",
+        "coordinates": "(56938,76802)"
+      },
+      {
+        "date": "2017-8-12",
+        "specie": "Moby dick",
+        "weight": 60.525581839572176,
+        "lake": "Fahey Lake",
+        "coordinates": "(57216,68392)"
+      },
+      {
+        "date": "2012-6-27",
+        "specie": "Moby dick",
+        "weight": 7.995395741879685,
+        "lake": "Schneider Lake",
+        "coordinates": "(41977,41908)"
+      }
+    ],
+    "49440": [
+      {
+        "date": "2018-4-22",
+        "specie": "Megalodon",
+        "weight": 73.2053888329661,
+        "lake": "Murazik Lake",
+        "coordinates": "(39429,26797)"
+      },
+      {
+        "date": "2016-1-14",
+        "specie": "Bloop",
+        "weight": 46.33682269431898,
+        "lake": "Gleichner Lake",
+        "coordinates": "(28508,54825)"
+      },
+      {
+        "date": "2015-10-11",
+        "specie": "Bloop",
+        "weight": 93.98561722496241,
+        "lake": "Cronin Lake",
+        "coordinates": "(87664,63295)"
+      }
+    ],
+    "50503": [
+      {
+        "date": "2011-4-4",
+        "specie": "Megalodon",
+        "weight": 42.396289539946295,
+        "lake": "Thompson Lake",
+        "coordinates": "(53745,8574)"
+      },
+      {
+        "date": "2018-9-9",
+        "specie": "Bloop",
+        "weight": 89.78052145455739,
+        "lake": "Daniel Lake",
+        "coordinates": "(69053,67113)"
+      },
+      {
+        "date": "2010-2-8",
+        "specie": "Bloop",
+        "weight": 96.61990097627353,
+        "lake": "Hyatt Lake",
+        "coordinates": "(58356,41505)"
+      }
+    ],
+    "51144": [
+      {
+        "date": "2020-6-1",
+        "specie": "Bloop",
+        "weight": 4.222303160803298,
+        "lake": "Willms Lake",
+        "coordinates": "(98939,69102)"
+      },
+      {
+        "date": "2013-9-16",
+        "specie": "Bloop",
+        "weight": 76.19440989663757,
+        "lake": "Feeney Lake",
+        "coordinates": "(11389,90370)"
+      },
+      {
+        "date": "2011-9-13",
+        "specie": "Alien",
+        "weight": 83.07527411517125,
+        "lake": "Spencer Lake",
+        "coordinates": "(29907,35636)"
+      }
+    ],
+    "53913": [
+      {
+        "date": "2016-4-21",
+        "specie": "Alien",
+        "weight": 24.790838709193565,
+        "lake": "Prosacco Lake",
+        "coordinates": "(58205,81188)"
+      },
+      {
+        "date": "2010-11-26",
+        "specie": "Megalodon",
+        "weight": 1.9167115381490074,
+        "lake": "Breitenberg Lake",
+        "coordinates": "(28778,81297)"
+      },
+      {
+        "date": "2011-12-20",
+        "specie": "Moby dick",
+        "weight": 18.96749453182569,
+        "lake": "Hilpert Lake",
+        "coordinates": "(68735,53582)"
+      }
+    ],
+    "54456": [
+      {
+        "date": "2019-1-7",
+        "specie": "Moby dick",
+        "weight": 46.01918203501907,
+        "lake": "Yundt Lake",
+        "coordinates": "(1081,55976)"
+      },
+      {
+        "date": "2015-12-11",
+        "specie": "Alien",
+        "weight": 85.93302605243105,
+        "lake": "Fay Lake",
+        "coordinates": "(23604,95922)"
+      },
+      {
+        "date": "2012-11-18",
+        "specie": "Moby dick",
+        "weight": 8.516131751036582,
+        "lake": "Hilpert Lake",
+        "coordinates": "(86799,21859)"
+      }
+    ],
+    "55056": [
+      {
+        "date": "2010-4-21",
+        "specie": "Moby dick",
+        "weight": 0.2454991793968242,
+        "lake": "Thompson Lake",
+        "coordinates": "(85991,33784)"
+      },
+      {
+        "date": "2019-11-5",
+        "specie": "Megalodon",
+        "weight": 57.49518716480224,
+        "lake": "Brekke Lake",
+        "coordinates": "(63755,37641)"
+      },
+      {
+        "date": "2018-11-1",
+        "specie": "Alien",
+        "weight": 36.1649393308702,
+        "lake": "Rice Lake",
+        "coordinates": "(18158,26749)"
+      }
+    ],
+    "56172": [
+      {
+        "date": "2013-1-25",
+        "specie": "Alien",
+        "weight": 16.947709517072095,
+        "lake": "Shields Lake",
+        "coordinates": "(91814,88014)"
+      },
+      {
+        "date": "2010-8-3",
+        "specie": "Megalodon",
+        "weight": 27.283085517482775,
+        "lake": "Daniel Lake",
+        "coordinates": "(13763,9938)"
+      },
+      {
+        "date": "2017-8-9",
+        "specie": "Alien",
+        "weight": 1.2713232808399422,
+        "lake": "Mitchell Lake",
+        "coordinates": "(2440,67307)"
+      }
+    ],
+    "56473": [
+      {
+        "date": "2018-4-25",
+        "specie": "Moby dick",
+        "weight": 26.90277432528432,
+        "lake": "Roob Lake",
+        "coordinates": "(14019,18200)"
+      },
+      {
+        "date": "2015-11-14",
+        "specie": "Alien",
+        "weight": 28.009617549857403,
+        "lake": "Gislason Lake",
+        "coordinates": "(2443,56703)"
+      },
+      {
+        "date": "2019-7-21",
+        "specie": "Alien",
+        "weight": 78.44672880036632,
+        "lake": "McKenzie Lake",
+        "coordinates": "(28601,33405)"
+      }
+    ],
+    "57284": [
+      {
+        "date": "2009-8-2",
+        "specie": "Alien",
+        "weight": 6.211358477220075,
+        "lake": "Leffler Lake",
+        "coordinates": "(63510,13691)"
+      },
+      {
+        "date": "2019-1-19",
+        "specie": "Moby dick",
+        "weight": 66.08393713556173,
+        "lake": "Moen Lake",
+        "coordinates": "(68193,40707)"
+      },
+      {
+        "date": "2012-4-5",
+        "specie": "Megalodon",
+        "weight": 14.380441673854548,
+        "lake": "Rice Lake",
+        "coordinates": "(80039,43596)"
+      }
+    ],
+    "57328": [
+      {
+        "date": "2011-7-11",
+        "specie": "Moby dick",
+        "weight": 29.17545302381701,
+        "lake": "DuBuque Lake",
+        "coordinates": "(60503,10444)"
+      },
+      {
+        "date": "2015-7-9",
+        "specie": "Alien",
+        "weight": 20.22716156730924,
+        "lake": "Emmerich Lake",
+        "coordinates": "(48570,84416)"
+      },
+      {
+        "date": "2018-5-15",
+        "specie": "Moby dick",
+        "weight": 4.081581695786207,
+        "lake": "Halvorson Lake",
+        "coordinates": "(57064,62279)"
+      }
+    ],
+    "57530": [
+      {
+        "date": "2016-11-21",
+        "specie": "Alien",
+        "weight": 56.95058043094146,
+        "lake": "Conroy Lake",
+        "coordinates": "(40565,74355)"
+      },
+      {
+        "date": "2017-9-13",
+        "specie": "Megalodon",
+        "weight": 68.55875686424262,
+        "lake": "Mante Lake",
+        "coordinates": "(85898,2510)"
+      },
+      {
+        "date": "2012-10-27",
+        "specie": "Alien",
+        "weight": 54.59487535894352,
+        "lake": "Wisozk Lake",
+        "coordinates": "(32196,24930)"
+      }
+    ],
+    "58262": [
+      {
+        "date": "2013-2-2",
+        "specie": "Alien",
+        "weight": 43.87189697700924,
+        "lake": "King Lake",
+        "coordinates": "(17197,51713)"
+      },
+      {
+        "date": "2009-12-5",
+        "specie": "Megalodon",
+        "weight": 18.563521471613864,
+        "lake": "Breitenberg Lake",
+        "coordinates": "(75998,90068)"
+      },
+      {
+        "date": "2014-6-13",
+        "specie": "Alien",
+        "weight": 43.71412231708671,
+        "lake": "Schuster Lake",
+        "coordinates": "(46731,98966)"
+      }
+    ],
+    "61685": [
+      {
+        "date": "2016-9-10",
+        "specie": "Alien",
+        "weight": 57.31370395335449,
+        "lake": "Kuhn Lake",
+        "coordinates": "(2730,79001)"
+      },
+      {
+        "date": "2012-7-13",
+        "specie": "Moby dick",
+        "weight": 36.01607124065475,
+        "lake": "Collier Lake",
+        "coordinates": "(92714,44347)"
+      },
+      {
+        "date": "2014-4-3",
+        "specie": "Alien",
+        "weight": 22.846453972425195,
+        "lake": "Swaniawski Lake",
+        "coordinates": "(76903,36030)"
+      }
+    ],
+    "64113": [
+      {
+        "date": "2018-11-21",
+        "specie": "Bloop",
+        "weight": 7.098238968207005,
+        "lake": "Stoltenberg Lake",
+        "coordinates": "(58052,99606)"
+      },
+      {
+        "date": "2011-8-15",
+        "specie": "Alien",
+        "weight": 94.47042743227748,
+        "lake": "O'Connell Lake",
+        "coordinates": "(39441,95436)"
+      },
+      {
+        "date": "2017-12-4",
+        "specie": "Megalodon",
+        "weight": 2.4890603288904023,
+        "lake": "Schneider Lake",
+        "coordinates": "(46252,24538)"
+      }
+    ],
+    "64980": [
+      {
+        "date": "2009-7-13",
+        "specie": "Megalodon",
+        "weight": 83.13365393841306,
+        "lake": "Koelpin Lake",
+        "coordinates": "(78016,21239)"
+      },
+      {
+        "date": "2014-1-28",
+        "specie": "Megalodon",
+        "weight": 37.24092088473896,
+        "lake": "Olson Lake",
+        "coordinates": "(93372,82543)"
+      },
+      {
+        "date": "2009-7-9",
+        "specie": "Megalodon",
+        "weight": 58.12706625899382,
+        "lake": "Goldner Lake",
+        "coordinates": "(58732,31289)"
+      }
+    ],
+    "65613": [
+      {
+        "date": "2014-8-7",
+        "specie": "Megalodon",
+        "weight": 76.85731817145596,
+        "lake": "Stokes Lake",
+        "coordinates": "(13710,21180)"
+      },
+      {
+        "date": "2016-12-10",
+        "specie": "Bloop",
+        "weight": 46.222984955641344,
+        "lake": "Fay Lake",
+        "coordinates": "(98556,45740)"
+      },
+      {
+        "date": "2020-4-28",
+        "specie": "Alien",
+        "weight": 51.173340763117906,
+        "lake": "Sawayn Lake",
+        "coordinates": "(39332,32151)"
+      }
+    ],
+    "66933": [
+      {
+        "date": "2016-3-28",
+        "specie": "Alien",
+        "weight": 58.54843189001109,
+        "lake": "Schaefer Lake",
+        "coordinates": "(73723,27401)"
+      },
+      {
+        "date": "2015-7-6",
+        "specie": "Alien",
+        "weight": 65.98850684676655,
+        "lake": "Blick Lake",
+        "coordinates": "(34042,20288)"
+      },
+      {
+        "date": "2012-1-7",
+        "specie": "Moby dick",
+        "weight": 77.19181433370197,
+        "lake": "Harris Lake",
+        "coordinates": "(14374,5019)"
+      }
+    ],
+    "67130": [
+      {
+        "date": "2013-12-2",
+        "specie": "Megalodon",
+        "weight": 92.08870663575932,
+        "lake": "Connelly Lake",
+        "coordinates": "(73579,21381)"
+      },
+      {
+        "date": "2015-3-22",
+        "specie": "Megalodon",
+        "weight": 21.252914479628604,
+        "lake": "Goldner Lake",
+        "coordinates": "(74793,69600)"
+      },
+      {
+        "date": "2010-11-27",
+        "specie": "Moby dick",
+        "weight": 17.546675282351455,
+        "lake": "Frami Lake",
+        "coordinates": "(40935,21019)"
+      }
+    ],
+    "67479": [
+      {
+        "date": "2013-11-22",
+        "specie": "Bloop",
+        "weight": 93.23055208067794,
+        "lake": "Kihn Lake",
+        "coordinates": "(62129,31978)"
+      },
+      {
+        "date": "2016-5-9",
+        "specie": "Moby dick",
+        "weight": 69.998391056585,
+        "lake": "Corwin Lake",
+        "coordinates": "(24839,18966)"
+      },
+      {
+        "date": "2014-12-6",
+        "specie": "Bloop",
+        "weight": 16.59394683455315,
+        "lake": "Corkery Lake",
+        "coordinates": "(43220,1227)"
+      }
+    ],
+    "67496": [
+      {
+        "date": "2013-11-5",
+        "specie": "Megalodon",
+        "weight": 57.00017617394815,
+        "lake": "Shields Lake",
+        "coordinates": "(10377,15956)"
+      },
+      {
+        "date": "2016-10-8",
+        "specie": "Alien",
+        "weight": 2.003976566708099,
+        "lake": "Schuppe Lake",
+        "coordinates": "(68021,78680)"
+      },
+      {
+        "date": "2015-11-7",
+        "specie": "Alien",
+        "weight": 70.90400031762185,
+        "lake": "Williamson Lake",
+        "coordinates": "(6783,92367)"
+      }
+    ],
+    "68672": [
+      {
+        "date": "2012-9-23",
+        "specie": "Moby dick",
+        "weight": 50.968481093701335,
+        "lake": "Kling Lake",
+        "coordinates": "(43060,3254)"
+      },
+      {
+        "date": "2010-9-16",
+        "specie": "Megalodon",
+        "weight": 25.196904970819567,
+        "lake": "Bergstrom Lake",
+        "coordinates": "(1647,91229)"
+      },
+      {
+        "date": "2019-5-18",
+        "specie": "Bloop",
+        "weight": 10.687529481802315,
+        "lake": "Carroll Lake",
+        "coordinates": "(24342,50995)"
+      }
+    ],
+    "69110": [
+      {
+        "date": "2017-5-20",
+        "specie": "Megalodon",
+        "weight": 25.04956816434214,
+        "lake": "Bayer Lake",
+        "coordinates": "(24264,43421)"
+      },
+      {
+        "date": "2011-7-28",
+        "specie": "Bloop",
+        "weight": 31.418472931062723,
+        "lake": "Mayert Lake",
+        "coordinates": "(30029,78334)"
+      },
+      {
+        "date": "2017-9-5",
+        "specie": "Bloop",
+        "weight": 27.591319158949723,
+        "lake": "Kassulke Lake",
+        "coordinates": "(80109,48778)"
+      }
+    ],
+    "69311": [
+      {
+        "date": "2013-1-17",
+        "specie": "Bloop",
+        "weight": 87.81721111884949,
+        "lake": "Wolff Lake",
+        "coordinates": "(38671,38173)"
+      },
+      {
+        "date": "2010-1-27",
+        "specie": "Bloop",
+        "weight": 45.76308832969389,
+        "lake": "Jakubowski Lake",
+        "coordinates": "(48963,27191)"
+      },
+      {
+        "date": "2019-4-22",
+        "specie": "Megalodon",
+        "weight": 78.50427467230081,
+        "lake": "Jacobs Lake",
+        "coordinates": "(22806,47875)"
+      }
+    ],
+    "70309": [
+      {
+        "date": "2011-5-17",
+        "specie": "Moby dick",
+        "weight": 53.16276905244681,
+        "lake": "Walter Lake",
+        "coordinates": "(35679,95167)"
+      },
+      {
+        "date": "2015-8-3",
+        "specie": "Megalodon",
+        "weight": 63.84290870532221,
+        "lake": "Casper Lake",
+        "coordinates": "(46008,26384)"
+      },
+      {
+        "date": "2017-2-26",
+        "specie": "Bloop",
+        "weight": 63.112230810847116,
+        "lake": "O'Kon Lake",
+        "coordinates": "(47816,93633)"
+      }
+    ],
+    "71673": [
+      {
+        "date": "2018-12-29",
+        "specie": "Moby dick",
+        "weight": 93.0793580527036,
+        "lake": "Kuhn Lake",
+        "coordinates": "(77119,95322)"
+      },
+      {
+        "date": "2010-3-14",
+        "specie": "Alien",
+        "weight": 74.21235347739197,
+        "lake": "Kuhic Lake",
+        "coordinates": "(73885,13307)"
+      },
+      {
+        "date": "2013-12-16",
+        "specie": "Bloop",
+        "weight": 20.110536986375372,
+        "lake": "Pagac Lake",
+        "coordinates": "(75677,38399)"
+      }
+    ],
+    "71900": [
+      {
+        "date": "2011-10-21",
+        "specie": "Moby dick",
+        "weight": 64.46559517366236,
+        "lake": "Okuneva Lake",
+        "coordinates": "(51980,10480)"
+      },
+      {
+        "date": "2010-1-20",
+        "specie": "Megalodon",
+        "weight": 94.35967287549694,
+        "lake": "Auer Lake",
+        "coordinates": "(10259,18551)"
+      },
+      {
+        "date": "2014-7-17",
+        "specie": "Megalodon",
+        "weight": 2.0449223386864057,
+        "lake": "Roberts Lake",
+        "coordinates": "(1925,24958)"
+      }
+    ],
+    "72154": [
+      {
+        "date": "2011-6-25",
+        "specie": "Alien",
+        "weight": 38.4731475375945,
+        "lake": "Muller Lake",
+        "coordinates": "(71311,23930)"
+      },
+      {
+        "date": "2016-3-15",
+        "specie": "Alien",
+        "weight": 10.066655472871822,
+        "lake": "Carroll Lake",
+        "coordinates": "(151,42098)"
+      },
+      {
+        "date": "2009-11-30",
+        "specie": "Alien",
+        "weight": 44.062773243191586,
+        "lake": "Zieme Lake",
+        "coordinates": "(81275,3944)"
+      }
+    ],
+    "72261": [
+      {
+        "date": "2010-5-16",
+        "specie": "Bloop",
+        "weight": 14.48448520278134,
+        "lake": "Harris Lake",
+        "coordinates": "(41909,6539)"
+      },
+      {
+        "date": "2019-6-29",
+        "specie": "Bloop",
+        "weight": 94.78957056900823,
+        "lake": "Durgan Lake",
+        "coordinates": "(2063,40032)"
+      },
+      {
+        "date": "2018-7-20",
+        "specie": "Bloop",
+        "weight": 41.313588789865044,
+        "lake": "Gottlieb Lake",
+        "coordinates": "(34678,57495)"
+      }
+    ],
+    "72869": [
+      {
+        "date": "2010-6-19",
+        "specie": "Moby dick",
+        "weight": 56.80383779284548,
+        "lake": "Spinka Lake",
+        "coordinates": "(36944,87584)"
+      },
+      {
+        "date": "2019-7-4",
+        "specie": "Megalodon",
+        "weight": 60.27846679762921,
+        "lake": "Medhurst Lake",
+        "coordinates": "(88586,76026)"
+      },
+      {
+        "date": "2011-11-23",
+        "specie": "Moby dick",
+        "weight": 48.20842832959382,
+        "lake": "Harris Lake",
+        "coordinates": "(53875,78193)"
+      }
+    ],
+    "72980": [
+      {
+        "date": "2013-4-18",
+        "specie": "Alien",
+        "weight": 9.731396367133605,
+        "lake": "Crooks Lake",
+        "coordinates": "(45693,70707)"
+      },
+      {
+        "date": "2017-3-28",
+        "specie": "Moby dick",
+        "weight": 12.16836997501436,
+        "lake": "Abshire Lake",
+        "coordinates": "(78655,25170)"
+      },
+      {
+        "date": "2014-8-13",
+        "specie": "Megalodon",
+        "weight": 99.20839774256393,
+        "lake": "Green Lake",
+        "coordinates": "(82586,87490)"
+      }
+    ],
+    "73065": [
+      {
+        "date": "2014-11-16",
+        "specie": "Megalodon",
+        "weight": 65.57929486443209,
+        "lake": "Senger Lake",
+        "coordinates": "(46605,10409)"
+      },
+      {
+        "date": "2012-10-20",
+        "specie": "Bloop",
+        "weight": 51.61700977363668,
+        "lake": "White Lake",
+        "coordinates": "(69375,2441)"
+      },
+      {
+        "date": "2016-4-24",
+        "specie": "Bloop",
+        "weight": 45.54844349452565,
+        "lake": "Murray Lake",
+        "coordinates": "(29417,46894)"
+      }
+    ],
+    "73706": [
+      {
+        "date": "2014-2-11",
+        "specie": "Alien",
+        "weight": 46.18143415873155,
+        "lake": "Kozey Lake",
+        "coordinates": "(66653,60978)"
+      },
+      {
+        "date": "2010-4-14",
+        "specie": "Megalodon",
+        "weight": 61.863596742124514,
+        "lake": "Bosco Lake",
+        "coordinates": "(88979,45021)"
+      },
+      {
+        "date": "2018-11-24",
+        "specie": "Moby dick",
+        "weight": 86.1546220075026,
+        "lake": "Macejkovic Lake",
+        "coordinates": "(65594,93449)"
+      }
+    ],
+    "76886": [
+      {
+        "date": "2013-10-1",
+        "specie": "Moby dick",
+        "weight": 8.412242491719791,
+        "lake": "Bartoletti Lake",
+        "coordinates": "(54187,27580)"
+      },
+      {
+        "date": "2019-1-22",
+        "specie": "Alien",
+        "weight": 74.21067499308627,
+        "lake": "Beier Lake",
+        "coordinates": "(73868,47648)"
+      },
+      {
+        "date": "2019-6-12",
+        "specie": "Bloop",
+        "weight": 35.025267029044514,
+        "lake": "Wehner Lake",
+        "coordinates": "(23579,25678)"
+      }
+    ],
+    "78371": [
+      {
+        "date": "2013-10-10",
+        "specie": "Alien",
+        "weight": 49.6024098193167,
+        "lake": "Kassulke Lake",
+        "coordinates": "(88983,26262)"
+      },
+      {
+        "date": "2019-7-20",
+        "specie": "Moby dick",
+        "weight": 12.42070800981201,
+        "lake": "Douglas Lake",
+        "coordinates": "(95275,43359)"
+      },
+      {
+        "date": "2019-1-25",
+        "specie": "Bloop",
+        "weight": 2.749437220633544,
+        "lake": "Veum Lake",
+        "coordinates": "(86011,31781)"
+      }
+    ],
+    "78731": [
+      {
+        "date": "2018-6-1",
+        "specie": "Alien",
+        "weight": 2.1637011981174847,
+        "lake": "Torphy Lake",
+        "coordinates": "(49715,72881)"
+      },
+      {
+        "date": "2010-2-5",
+        "specie": "Megalodon",
+        "weight": 57.50088652748369,
+        "lake": "Bode Lake",
+        "coordinates": "(34674,13826)"
+      },
+      {
+        "date": "2014-8-11",
+        "specie": "Bloop",
+        "weight": 78.16374144492893,
+        "lake": "Little Lake",
+        "coordinates": "(56317,99933)"
+      }
+    ],
+    "80319": [
+      {
+        "date": "2015-2-5",
+        "specie": "Megalodon",
+        "weight": 92.52350244820617,
+        "lake": "Towne Lake",
+        "coordinates": "(18294,82066)"
+      },
+      {
+        "date": "2013-11-11",
+        "specie": "Bloop",
+        "weight": 80.33754439251688,
+        "lake": "Bahringer Lake",
+        "coordinates": "(645,43537)"
+      },
+      {
+        "date": "2017-7-26",
+        "specie": "Megalodon",
+        "weight": 41.2063821221659,
+        "lake": "Okuneva Lake",
+        "coordinates": "(54346,45471)"
+      }
+    ],
+    "80610": [
+      {
+        "date": "2016-9-28",
+        "specie": "Megalodon",
+        "weight": 93.58246854491192,
+        "lake": "Sipes Lake",
+        "coordinates": "(57333,2905)"
+      },
+      {
+        "date": "2017-11-25",
+        "specie": "Bloop",
+        "weight": 4.258101886035814,
+        "lake": "Brakus Lake",
+        "coordinates": "(71173,11910)"
+      },
+      {
+        "date": "2016-11-26",
+        "specie": "Bloop",
+        "weight": 95.96695239304285,
+        "lake": "Spencer Lake",
+        "coordinates": "(47216,44487)"
+      }
+    ],
+    "80813": [
+      {
+        "date": "2016-5-13",
+        "specie": "Megalodon",
+        "weight": 17.337858500271963,
+        "lake": "Konopelski Lake",
+        "coordinates": "(82063,89524)"
+      },
+      {
+        "date": "2017-11-28",
+        "specie": "Bloop",
+        "weight": 3.1359978085029994,
+        "lake": "Davis Lake",
+        "coordinates": "(25165,92545)"
+      },
+      {
+        "date": "2019-2-5",
+        "specie": "Bloop",
+        "weight": 3.2622885050928696,
+        "lake": "Koelpin Lake",
+        "coordinates": "(47616,97128)"
+      }
+    ],
+    "81728": [
+      {
+        "date": "2015-5-16",
+        "specie": "Bloop",
+        "weight": 25.19705764136613,
+        "lake": "Hermiston Lake",
+        "coordinates": "(97956,87629)"
+      },
+      {
+        "date": "2012-7-28",
+        "specie": "Megalodon",
+        "weight": 53.542670262634104,
+        "lake": "Zulauf Lake",
+        "coordinates": "(81383,3484)"
+      },
+      {
+        "date": "2014-2-15",
+        "specie": "Moby dick",
+        "weight": 32.42390225876264,
+        "lake": "Grimes Lake",
+        "coordinates": "(49593,83065)"
+      }
+    ],
+    "82226": [
+      {
+        "date": "2012-2-10",
+        "specie": "Alien",
+        "weight": 21.69575763379543,
+        "lake": "Daniel Lake",
+        "coordinates": "(50918,66980)"
+      },
+      {
+        "date": "2017-5-10",
+        "specie": "Moby dick",
+        "weight": 78.19469076947829,
+        "lake": "West Lake",
+        "coordinates": "(99335,3340)"
+      },
+      {
+        "date": "2015-1-23",
+        "specie": "Megalodon",
+        "weight": 6.578477043075837,
+        "lake": "Smitham Lake",
+        "coordinates": "(91958,41031)"
+      }
+    ],
+    "82700": [
+      {
+        "date": "2018-5-31",
+        "specie": "Megalodon",
+        "weight": 39.3524150060905,
+        "lake": "Kuhic Lake",
+        "coordinates": "(58110,51147)"
+      },
+      {
+        "date": "2019-6-24",
+        "specie": "Bloop",
+        "weight": 39.97349212899124,
+        "lake": "Lang Lake",
+        "coordinates": "(1431,20176)"
+      },
+      {
+        "date": "2019-7-3",
+        "specie": "Bloop",
+        "weight": 84.05704737490657,
+        "lake": "Bosco Lake",
+        "coordinates": "(8691,31829)"
+      }
+    ],
+    "84232": [
+      {
+        "date": "2010-10-18",
+        "specie": "Alien",
+        "weight": 14.157068293879815,
+        "lake": "Cartwright Lake",
+        "coordinates": "(95792,46186)"
+      },
+      {
+        "date": "2013-3-31",
+        "specie": "Megalodon",
+        "weight": 40.652015513239604,
+        "lake": "Weber Lake",
+        "coordinates": "(6428,47104)"
+      },
+      {
+        "date": "2017-10-24",
+        "specie": "Megalodon",
+        "weight": 95.45136536865951,
+        "lake": "Bauch Lake",
+        "coordinates": "(58118,39193)"
+      }
+    ],
+    "84391": [
+      {
+        "date": "2011-7-16",
+        "specie": "Bloop",
+        "weight": 55.849054348167805,
+        "lake": "Schaden Lake",
+        "coordinates": "(18442,92266)"
+      },
+      {
+        "date": "2019-11-13",
+        "specie": "Megalodon",
+        "weight": 36.61734562195964,
+        "lake": "Price Lake",
+        "coordinates": "(33910,28732)"
+      },
+      {
+        "date": "2016-6-4",
+        "specie": "Megalodon",
+        "weight": 14.098930638117935,
+        "lake": "Simonis Lake",
+        "coordinates": "(82544,16023)"
+      }
+    ],
+    "84987": [
+      {
+        "date": "2019-7-13",
+        "specie": "Alien",
+        "weight": 94.05791876690348,
+        "lake": "Williamson Lake",
+        "coordinates": "(36345,63748)"
+      },
+      {
+        "date": "2015-1-8",
+        "specie": "Megalodon",
+        "weight": 29.676005640617966,
+        "lake": "Connelly Lake",
+        "coordinates": "(49119,20763)"
+      },
+      {
+        "date": "2015-9-11",
+        "specie": "Alien",
+        "weight": 91.5358735185552,
+        "lake": "Koch Lake",
+        "coordinates": "(9580,58933)"
+      }
+    ],
+    "85548": [
+      {
+        "date": "2019-4-2",
+        "specie": "Moby dick",
+        "weight": 39.74078829228227,
+        "lake": "Armstrong Lake",
+        "coordinates": "(98697,82283)"
+      },
+      {
+        "date": "2018-1-28",
+        "specie": "Alien",
+        "weight": 49.75416813801215,
+        "lake": "Nolan Lake",
+        "coordinates": "(33788,83934)"
+      },
+      {
+        "date": "2016-10-2",
+        "specie": "Moby dick",
+        "weight": 21.838006159792812,
+        "lake": "Von Lake",
+        "coordinates": "(68076,70920)"
+      }
+    ],
+    "86125": [
+      {
+        "date": "2020-3-13",
+        "specie": "Alien",
+        "weight": 92.31391594202924,
+        "lake": "Trantow Lake",
+        "coordinates": "(26568,9157)"
+      },
+      {
+        "date": "2016-2-5",
+        "specie": "Alien",
+        "weight": 10.986838060506532,
+        "lake": "Okuneva Lake",
+        "coordinates": "(26840,36223)"
+      },
+      {
+        "date": "2017-10-12",
+        "specie": "Bloop",
+        "weight": 52.89999306721784,
+        "lake": "Buckridge Lake",
+        "coordinates": "(536,4268)"
+      }
+    ],
+    "87094": [
+      {
+        "date": "2016-7-22",
+        "specie": "Bloop",
+        "weight": 12.621891531210094,
+        "lake": "Lebsack Lake",
+        "coordinates": "(31972,10648)"
+      },
+      {
+        "date": "2013-2-28",
+        "specie": "Moby dick",
+        "weight": 40.10916363914843,
+        "lake": "Streich Lake",
+        "coordinates": "(68511,69255)"
+      },
+      {
+        "date": "2017-2-25",
+        "specie": "Alien",
+        "weight": 90.12871599972317,
+        "lake": "Rutherford Lake",
+        "coordinates": "(59297,98072)"
+      }
+    ],
+    "87496": [
+      {
+        "date": "2010-5-9",
+        "specie": "Alien",
+        "weight": 94.15942514658295,
+        "lake": "Stokes Lake",
+        "coordinates": "(2836,33189)"
+      },
+      {
+        "date": "2014-3-5",
+        "specie": "Megalodon",
+        "weight": 30.623768678941254,
+        "lake": "Altenwerth Lake",
+        "coordinates": "(48819,49000)"
+      },
+      {
+        "date": "2018-3-2",
+        "specie": "Megalodon",
+        "weight": 89.55383065398243,
+        "lake": "Homenick Lake",
+        "coordinates": "(49377,28140)"
+      }
+    ],
+    "91218": [
+      {
+        "date": "2010-8-3",
+        "specie": "Megalodon",
+        "weight": 63.49232182110387,
+        "lake": "Anderson Lake",
+        "coordinates": "(32260,18698)"
+      },
+      {
+        "date": "2020-3-5",
+        "specie": "Bloop",
+        "weight": 67.66064855582047,
+        "lake": "Hoppe Lake",
+        "coordinates": "(51924,55370)"
+      },
+      {
+        "date": "2017-8-12",
+        "specie": "Megalodon",
+        "weight": 24.948988746855093,
+        "lake": "Feil Lake",
+        "coordinates": "(65523,31228)"
+      }
+    ],
+    "92098": [
+      {
+        "date": "2011-10-28",
+        "specie": "Bloop",
+        "weight": 71.27289770225269,
+        "lake": "Nolan Lake",
+        "coordinates": "(85758,75316)"
+      },
+      {
+        "date": "2014-7-15",
+        "specie": "Alien",
+        "weight": 9.739643671802401,
+        "lake": "Daniel Lake",
+        "coordinates": "(45715,99846)"
+      },
+      {
+        "date": "2011-2-26",
+        "specie": "Megalodon",
+        "weight": 20.063370371970613,
+        "lake": "Zboncak Lake",
+        "coordinates": "(26769,95019)"
+      }
+    ],
+    "94873": [
+      {
+        "date": "2012-7-7",
+        "specie": "Alien",
+        "weight": 94.1943781155088,
+        "lake": "Littel Lake",
+        "coordinates": "(75520,17144)"
+      },
+      {
+        "date": "2010-8-13",
+        "specie": "Moby dick",
+        "weight": 96.77513745225082,
+        "lake": "Kshlerin Lake",
+        "coordinates": "(61702,98278)"
+      },
+      {
+        "date": "2010-12-9",
+        "specie": "Megalodon",
+        "weight": 3.199966357548467,
+        "lake": "Schultz Lake",
+        "coordinates": "(42442,2484)"
+      }
+    ],
+    "95257": [
+      {
+        "date": "2014-6-1",
+        "specie": "Bloop",
+        "weight": 46.94250668392201,
+        "lake": "Langworth Lake",
+        "coordinates": "(49389,25120)"
+      },
+      {
+        "date": "2011-12-28",
+        "specie": "Alien",
+        "weight": 31.616880546347616,
+        "lake": "Roob Lake",
+        "coordinates": "(28684,79802)"
+      },
+      {
+        "date": "2012-5-11",
+        "specie": "Bloop",
+        "weight": 77.23869245052416,
+        "lake": "Gislason Lake",
+        "coordinates": "(74801,39396)"
+      }
+    ],
+    "95831": [
+      {
+        "date": "2014-8-13",
+        "specie": "Alien",
+        "weight": 70.15221448545554,
+        "lake": "Goyette Lake",
+        "coordinates": "(12149,94002)"
+      },
+      {
+        "date": "2014-12-7",
+        "specie": "Megalodon",
+        "weight": 2.4011239727156353,
+        "lake": "Kunze Lake",
+        "coordinates": "(73922,36826)"
+      },
+      {
+        "date": "2015-6-2",
+        "specie": "Alien",
+        "weight": 81.0902821800978,
+        "lake": "McClure Lake",
+        "coordinates": "(66958,66933)"
+      }
+    ],
+    "96729": [
+      {
+        "date": "2012-4-13",
+        "specie": "Megalodon",
+        "weight": 1.670764609738229,
+        "lake": "Botsford Lake",
+        "coordinates": "(24177,45720)"
+      },
+      {
+        "date": "2012-8-18",
+        "specie": "Moby dick",
+        "weight": 29.19232268888301,
+        "lake": "Trantow Lake",
+        "coordinates": "(73526,82639)"
+      },
+      {
+        "date": "2013-10-13",
+        "specie": "Moby dick",
+        "weight": 18.553086252806807,
+        "lake": "Bayer Lake",
+        "coordinates": "(57113,1308)"
+      }
+    ],
+    "98404": [
+      {
+        "date": "2017-9-22",
+        "specie": "Alien",
+        "weight": 42.30946377262739,
+        "lake": "Connelly Lake",
+        "coordinates": "(83913,6212)"
+      },
+      {
+        "date": "2014-9-26",
+        "specie": "Moby dick",
+        "weight": 65.27467024793923,
+        "lake": "Raynor Lake",
+        "coordinates": "(28033,87250)"
+      },
+      {
+        "date": "2011-9-1",
+        "specie": "Moby dick",
+        "weight": 71.83407352079062,
+        "lake": "Hintz Lake",
+        "coordinates": "(61412,24817)"
+      }
+    ],
+    "99167": [
+      {
+        "date": "2012-8-3",
+        "specie": "Bloop",
+        "weight": 5.7759263272921135,
+        "lake": "King Lake",
+        "coordinates": "(27021,93615)"
+      },
+      {
+        "date": "2010-3-20",
+        "specie": "Bloop",
+        "weight": 64.31675076179822,
+        "lake": "Crona Lake",
+        "coordinates": "(85511,51085)"
+      },
+      {
+        "date": "2016-11-4",
+        "specie": "Megalodon",
+        "weight": 93.36760097817691,
+        "lake": "Predovic Lake",
+        "coordinates": "(61825,95980)"
+      }
+    ]
+  },
+  "equipments": {
+    "135": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Theresia's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 40.40970440096119,
+          "length": 6
+        },
+        {
+          "type": "te4st",
+          "name": "test",
+          "weight": "21412",
+          "material": "test",
+          "length": "21412"
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Aliza's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Karl's Extra Super Tent",
+          "weight": 627.7607115177761,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "1356": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Agustina's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 79.3769122409767,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Ada's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Nona's Extra Super Tent",
+          "weight": 110.36536516792484,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "2707": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Jo's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 64.10318787255586,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Lurline's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Elliot's Extra Super Tent",
+          "weight": 6.848681669173962,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "2909": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Mertie's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 3.244618739287941,
+          "length": 5
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Demetris's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Charles's Extra Super Tent",
+          "weight": 129.46081010265,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "3445": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Anibal's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 50.14670921333624,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Brock's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Beatrice's Extra Super Tent",
+          "weight": 127.73277069010814,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "4439": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Josianne's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 39.02259418065972,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Nannie's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Karianne's Extra Super Tent",
+          "weight": 243.85459751917261,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "4856": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Bettie's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 34.96523847760458,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Annalise's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Felix's Extra Super Tent",
+          "weight": 498.97033706162875,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "6712": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Lee's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 91.26270219148118,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Gia's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 1,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Paula's Extra Super Tent",
+          "weight": 189.70697291650197,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "7047": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Jamir's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 83.28833370426494,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Matt's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Maya's Extra Super Tent",
+          "weight": 912.2029731685496,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "10800": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Breana's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 41.06109946253373,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Devonte's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Citlalli's Extra Super Tent",
+          "weight": 72.09020937841282,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "11423": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Stone's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 37.54055895796389,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Mauricio's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Elvie's Extra Super Tent",
+          "weight": 532.2769633501547,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "13265": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Jennyfer's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 59.76203120354822,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Jodie's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 1,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Theodora's Extra Super Tent",
+          "weight": 700.6328762383216,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "15025": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Alvera's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 27.418912379239877,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Lucienne's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 1,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Dane's Extra Super Tent",
+          "weight": 656.0363564671268,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "16967": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Lydia's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 50.291820114457806,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Raul's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Delilah's Extra Super Tent",
+          "weight": 221.40189320970882,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "18002": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Jaden's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 63.43361170803527,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Pink's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Isaac's Extra Super Tent",
+          "weight": 897.574790855412,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "18730": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Taurean's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 33.733594752535346,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Greta's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Blanche's Extra Super Tent",
+          "weight": 260.0611858925213,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "19670": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Rowland's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 92.65341844831441,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "William's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 1,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Dianna's Extra Super Tent",
+          "weight": 750.0379491152802,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "20099": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Precious's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 71.15374110828387,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Izaiah's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Adele's Extra Super Tent",
+          "weight": 897.6689093825892,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "21042": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Mossie's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 51.4189397263793,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Jammie's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Green's Extra Super Tent",
+          "weight": 841.0577769873471,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "21150": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Garry's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 80.2376118402098,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Loyal's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Tiffany's Extra Super Tent",
+          "weight": 2.7203830905744297,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "22571": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Bruce's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 41.002344231271756,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Bonita's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Cesar's Extra Super Tent",
+          "weight": 99.89260311705638,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "23115": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Alphonso's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 26.431634005217663,
+          "length": 5
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Alexander's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Deondre's Extra Super Tent",
+          "weight": 73.42698083950872,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "23116": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Michelle's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 0.9828221627794509,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Sheldon's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Katelin's Extra Super Tent",
+          "weight": 269.77264031333937,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "26588": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Fabian's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 59.99798014330957,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Jannie's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Andreanne's Extra Super Tent",
+          "weight": 908.5704371596845,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "28285": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Krystel's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 62.210170822316655,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Micheal's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Larry's Extra Super Tent",
+          "weight": 461.15893720143265,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "28630": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Christina's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 34.70422064783172,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Arely's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Yvonne's Extra Super Tent",
+          "weight": 649.135203055293,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "28705": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Mittie's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 90.82991764840907,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Emery's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Brionna's Extra Super Tent",
+          "weight": 234.80041188239676,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "30770": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Letitia's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 9.95570144582607,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Antone's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Catalina's Extra Super Tent",
+          "weight": 288.34395699941064,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "31542": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Claude's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 69.76406074458748,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Kasandra's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Brycen's Extra Super Tent",
+          "weight": 153.54182045277275,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "32526": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Julia's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 65.1999263832646,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Garrett's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Nathanial's Extra Super Tent",
+          "weight": 44.67658465357949,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "33642": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Isac's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 10.208255184125647,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Arjun's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Ignacio's Extra Super Tent",
+          "weight": 421.78592240503065,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "35085": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Rose's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 91.30897742928761,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Vidal's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 1,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Eliane's Extra Super Tent",
+          "weight": 844.0463222170855,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "40166": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Lowell's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 51.41839063083529,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Eliza's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Desiree's Extra Super Tent",
+          "weight": 624.887642779399,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "41315": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Ramona's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 20.316109037010534,
+          "length": 5
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Trudie's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 1,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Kevin's Extra Super Tent",
+          "weight": 773.4798778663477,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "41400": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Phoebe's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 70.83232248859655,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Herman's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Rogers's Extra Super Tent",
+          "weight": 860.0828880097198,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "41621": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Melvin's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 31.030993816461883,
+          "length": 5
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Beverly's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Molly's Extra Super Tent",
+          "weight": 528.6513988461559,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "41730": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Aryanna's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 42.76225261660838,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Stanford's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Carlos's Extra Super Tent",
+          "weight": 925.5092597845224,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "43382": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Alfreda's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 79.90309642578556,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Salma's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 1,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Bonita's Extra Super Tent",
+          "weight": 71.18124235634826,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "43629": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Maryjane's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 30.70864537671931,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Hadley's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Lenna's Extra Super Tent",
+          "weight": 561.5414905971656,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "45091": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Michael's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 9.839130863906753,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Rylan's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Rylan's Extra Super Tent",
+          "weight": 408.3503897744605,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "45157": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Braden's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 95.59186683383068,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Bret's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Ozella's Extra Super Tent",
+          "weight": 419.98566716394214,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "45815": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Carissa's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 17.74425226746277,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Prince's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Roger's Extra Super Tent",
+          "weight": 713.9280931023313,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "47611": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Emilio's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 54.24937307799895,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Loren's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Damion's Extra Super Tent",
+          "weight": 259.2018623177654,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "49131": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Eddie's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 17.83121346224734,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Koby's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 1,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Nola's Extra Super Tent",
+          "weight": 566.567099005388,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "49440": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Antonina's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 46.630608119716314,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Enola's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 1,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Sterling's Extra Super Tent",
+          "weight": 686.0582332115919,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "50503": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Vivian's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 34.17924616241661,
+          "length": 5
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Devan's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Kailyn's Extra Super Tent",
+          "weight": 835.3096421345025,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "51144": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Emmanuel's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 49.7659321621432,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Cora's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Pasquale's Extra Super Tent",
+          "weight": 541.5821312501726,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "53913": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Micah's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 77.19653184350773,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Solon's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Ethyl's Extra Super Tent",
+          "weight": 100.23715868664152,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "54456": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Darrel's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 5.711162795546421,
+          "length": 5
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Dolores's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Jovany's Extra Super Tent",
+          "weight": 122.13683187611247,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "55056": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Abdullah's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 2.1391581703875007,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Genoveva's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Martin's Extra Super Tent",
+          "weight": 376.4011854852085,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "56172": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Rogelio's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 31.384430165935306,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Marisa's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Thora's Extra Super Tent",
+          "weight": 943.5382296764394,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "56473": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Elisha's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 99.77782291168589,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Reuben's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Talon's Extra Super Tent",
+          "weight": 599.882769431237,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "57284": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Claudia's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 34.76206846490404,
+          "length": 5
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Jewel's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Otto's Extra Super Tent",
+          "weight": 188.09835041534973,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "57328": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Lelah's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 37.41850004741729,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Juliana's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Caterina's Extra Super Tent",
+          "weight": 75.3134364596948,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "57530": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Lelia's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 33.98139357840706,
+          "length": 5
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Nadia's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Robbie's Extra Super Tent",
+          "weight": 444.66050387027514,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "58262": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Llewellyn's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 77.94732118569927,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Constantin's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Elna's Extra Super Tent",
+          "weight": 900.843126232465,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "61685": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Cole's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 56.768986803438914,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Zena's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Esmeralda's Extra Super Tent",
+          "weight": 567.1078909018976,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "64113": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Eliezer's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 9.54839417117097,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Ariel's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Karen's Extra Super Tent",
+          "weight": 408.7735760189921,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "64980": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Claudine's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 87.67677999363555,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Eloisa's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Natalie's Extra Super Tent",
+          "weight": 287.08937059549976,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "65613": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Dominique's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 14.134190907369003,
+          "length": 5
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Alysha's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Jonatan's Extra Super Tent",
+          "weight": 537.5240456507944,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "66933": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Lexie's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 62.36024472872481,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Marlon's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Alysson's Extra Super Tent",
+          "weight": 301.1099561380539,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "67130": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Dorothea's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 79.97497499476371,
+          "length": 5
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Carlie's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Antonina's Extra Super Tent",
+          "weight": 930.000841237319,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "67479": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Green's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 64.50983728564121,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Bryce's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Gonzalo's Extra Super Tent",
+          "weight": 0.3530144443775196,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "67496": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Stanley's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 52.70425984425402,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Camron's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Bulah's Extra Super Tent",
+          "weight": 333.47102881428594,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "68672": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Bridie's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 90.3730231131252,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Nyah's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Dock's Extra Super Tent",
+          "weight": 684.0886979447519,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "69110": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Berenice's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 4.458734935350472,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Shania's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Agustin's Extra Super Tent",
+          "weight": 435.9078215101948,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "69311": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Breana's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 72.36285105525158,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Catalina's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Vernon's Extra Super Tent",
+          "weight": 625.4160751718018,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "70309": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Jesus's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 85.29202031214524,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Aurelia's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Darby's Extra Super Tent",
+          "weight": 220.04995429598662,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "71673": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Connie's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 25.44413131328134,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Drake's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Shane's Extra Super Tent",
+          "weight": 351.874754294484,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "71900": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Assunta's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 66.15091812494339,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Imogene's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Casimir's Extra Super Tent",
+          "weight": 229.93309788076388,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "72154": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Bonnie's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 86.99326301891321,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Alisa's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Bonnie's Extra Super Tent",
+          "weight": 209.8104461672099,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "72261": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Maud's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 50.46204025302296,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Sidney's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Claudine's Extra Super Tent",
+          "weight": 891.1592423742168,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "72869": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Kaela's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 62.69450954833054,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Monserrate's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Ophelia's Extra Super Tent",
+          "weight": 65.82410441390807,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "72980": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Maxine's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 54.73320237188488,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Oliver's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 1,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Everett's Extra Super Tent",
+          "weight": 501.79800562481546,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "73065": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Adele's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 70.25970305613743,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Ernestina's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Brent's Extra Super Tent",
+          "weight": 533.0402054353616,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "73706": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Marcus's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 36.25800755717545,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Raymundo's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Domenico's Extra Super Tent",
+          "weight": 279.6827131717274,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "76886": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Karina's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 51.782697848392864,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Kelsi's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Gus's Extra Super Tent",
+          "weight": 508.23461555016513,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "78371": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Freddy's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 66.6221980575945,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Giuseppe's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Jazlyn's Extra Super Tent",
+          "weight": 927.2683437664995,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "78731": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Krystina's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 42.58752609904213,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Judy's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Esperanza's Extra Super Tent",
+          "weight": 173.44033765582512,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "80319": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Garth's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 28.104983855827115,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Jerad's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Brennon's Extra Super Tent",
+          "weight": 528.5455122340874,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "80610": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Monica's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 47.695684163205,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Zetta's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Aylin's Extra Super Tent",
+          "weight": 457.5873630218164,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "80813": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Terrell's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 2.4488545046959187,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Joanie's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Lorna's Extra Super Tent",
+          "weight": 550.7890567597931,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "81728": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Garth's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 0.7976654452724885,
+          "length": 6
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Ron's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Mavis's Extra Super Tent",
+          "weight": 959.8343259113162,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "82226": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Noemy's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 51.43199504364917,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Jasen's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Davonte's Extra Super Tent",
+          "weight": 150.79443971093576,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "82700": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Gene's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 90.63355635617619,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Abigayle's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Annalise's Extra Super Tent",
+          "weight": 154.11036538235035,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "84232": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Cornelius's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 47.19652704934649,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Terrance's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Freddie's Extra Super Tent",
+          "weight": 966.1879397968869,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "84391": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Christina's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 81.04106557022395,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Keeley's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 1,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Houston's Extra Super Tent",
+          "weight": 673.350160371686,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "84987": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Danny's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 92.71695645674104,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Kenton's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Lorine's Extra Super Tent",
+          "weight": 37.90526005617689,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "85548": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Matilda's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 89.02878388305628,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Ora's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 1,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Mackenzie's Extra Super Tent",
+          "weight": 637.953872213914,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "86125": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Yolanda's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 91.90301235338478,
+          "length": 4
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Conner's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Adolf's Extra Super Tent",
+          "weight": 581.7816468558517,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "87094": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Connie's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 21.508640523317535,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Kristopher's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Lexus's Extra Super Tent",
+          "weight": 773.3529326368147,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "87496": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Ima's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 78.29922231860778,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Wava's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 5,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Zita's Extra Super Tent",
+          "weight": 785.6664839951086,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "91218": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Chesley's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 69.18520258742245,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Stephany's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Esmeralda's Extra Super Tent",
+          "weight": 252.98215525039413,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "92098": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Eduardo's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 37.47957311381904,
+          "length": 5
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Stephen's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Rosario's Extra Super Tent",
+          "weight": 282.48839247180604,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "94873": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Nellie's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 23.1213541039498,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Devan's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Garfield's Extra Super Tent",
+          "weight": 164.74809069732464,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "95257": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Humberto's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 48.3774650660707,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Felicita's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 6,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Makenzie's Extra Super Tent",
+          "weight": 213.34264778902013,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "95831": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Elnora's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 42.0947805364633,
+          "length": 1
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Bud's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 3,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Dimitri's Extra Super Tent",
+          "weight": 866.4113922156571,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "96729": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Kailee's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 92.49853445314366,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Mark's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Diego's Extra Super Tent",
+          "weight": 63.90489004668187,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "98404": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Johnathan's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 57.30918935975309,
+          "length": 3
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Flossie's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 4,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Mariam's Extra Super Tent",
+          "weight": 888.963707243525,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    },
+    "99167": {
+      "rods": [
+        {
+          "type": "Rod",
+          "name": "Jakayla's Extra Super Rod",
+          "material": "Fiberglass",
+          "weight": 30.167386377636895,
+          "length": 2
+        }
+      ],
+      "bait": [
+        {
+          "type": "Boilie",
+          "name": "Winona's Extra Super Boilies",
+          "flavour": "Peach",
+          "weight": 2,
+          "melting": "no"
+        }
+      ],
+      "other": [
+        {
+          "type": "Tent",
+          "name": "Brennan's Extra Super Tent",
+          "weight": 892.626350854594,
+          "size": "10x10",
+          "other_info": "Max People: 3"
+        }
+      ]
+    }
+  }
+}
