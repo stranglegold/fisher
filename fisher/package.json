@@ -38,7 +38,7 @@
   "devDependencies": {
     "faker": "^4.1.0",
     "json-server": "^0.16.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "bootstrap": "^4.4.1",
     "font-awesome": "^4.7.0",
     "react-router-dom": "^5.2.0"
